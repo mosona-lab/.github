@@ -11,4 +11,4 @@ This is a fun space. If you’d like to see our cute Mosona, please click:
 
 If you’re interested in our work, please visit:
 - [mosona-manager](https://github.com/mosona-network/mosona-manager): 
-  Designed as a team-oriented project management server monitor and terminal management tool, featuring comprehensive project permission control and SSH-driven remote management protocol.
+  Designed as a team-oriented / personal project management server monitor and terminal management tool, featuring comprehensive project permission control and Agent & SSH-driven remote management protocol.
